@@ -1,0 +1,1 @@
+# vite-plugin-multiple-page
